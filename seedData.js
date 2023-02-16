@@ -15,7 +15,7 @@ const seedRestaurant = [
     cuisine: 'Indian'
   }
 ]
-
+console.log(seedRestaurant[0]); // Returns "AppleBees"
 const seedMenu = [
   {
     title: 'Breakfast'
